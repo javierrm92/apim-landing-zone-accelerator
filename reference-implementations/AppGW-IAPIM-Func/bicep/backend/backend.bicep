@@ -88,7 +88,7 @@ var privateEndpoint_funcappAPIMCSBackendMicroServiceA_name   = 'pep-func-code-be
 //
 // Azure Storage Account
 resource storageAccounts_saapimcsbackend_name_resource 'Microsoft.Storage/storageAccounts@2021-02-01' = {
-  name: storageAccounts
+  name: storageAccounts_saapimcsbackend_name
   location: storageAccounts_location
   tags: {
     Owner: owner
