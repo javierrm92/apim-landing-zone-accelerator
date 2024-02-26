@@ -1,6 +1,6 @@
-AZURE_LOCATION: 'westus2'
+AZURE_LOCATION: 'westus3'
 RESOURCE_NAME_PREFIX: 'LanZone'
-ENVIRONMENT_TAG: 'prod'
+ENVIRONMENT_TAG: 'dev'
 DEPLOYMENT_NAME: 'deployment-azl'
 VM_USERNAME: 'VMazl'
 ACCOUNT_NAME: 'github.com/javprod'
